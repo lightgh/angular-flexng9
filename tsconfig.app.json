@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist/out-tsc",
+      "rootDir": "./src", 
+      /* Experimental Options */
+      "experimentalDecorators": true, 
+      "emitDecoratorMetadata": true, 
+      /* Advanced Options */
+      "forceConsistentCasingInFileNames": true 
+    }
+  }
